@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\bin\Debug\net6.0\Logic.dll
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\bin\Debug\net6.0\Logic.pdb
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\bin\Debug\net6.0\Entities.dll
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\bin\Debug\net6.0\Entities.pdb
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.dll
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\Logic.pdb
+C:\Users\Gustavo\source\repos\CRUD-DAPPER\CRUD DAPPER\Logic\obj\Debug\net6.0\ref\Logic.dll
