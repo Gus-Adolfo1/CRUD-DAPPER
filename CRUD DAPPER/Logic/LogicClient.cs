@@ -11,7 +11,7 @@ namespace Logic
 {
     public class LogicClient
     {
-        string connectionString = "Data Source=DESKTOP-6H57L2G;Initial Catalog=CRUD_DAPPER;Integrated Security=True";
+        string connectionString = "Data Source=localhost;Initial Catalog=CRUD_DAPPER;Integrated Security=True";
 
 
         public Cliente Create(Cliente cliente)
